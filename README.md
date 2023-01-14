@@ -20,7 +20,7 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 **Nível iniciante**
 
-- [ ] Introdução ao ecossistema e documentação Java - [acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd)
+- [X] Introdução ao ecossistema e documentação Java - [acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd)
 - [ ] Ambiente de desenvolvimento Java - [acesse o curso](https://web.dio.me/course/configurando-ambiente-de-desenvolvimento-java-no-linux/learning/0668bbda-e32e-44bc-9100-d9dd781bdf8f)
 - [ ] Lógica condicional e Controle de Fluxos em Java - [acesse o curso](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42)
 - [ ] Estruturas de repetição e Arrays em Java - [acesse o curso](https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c)
