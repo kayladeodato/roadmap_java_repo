@@ -34,7 +34,7 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 **Spring Framework***
 	
 - [ ] Gerenciamento de dep. em Java com Maven - [acesse o curso](https://web.dio.me/course/gerenciamento-de-dependencias-e-build-em-java-com-maven/learning/e6b60b98-7795-44cd-b477-e13f9d350249)
-- Imersão no Spring Framework com Spring boot - [acesse o curso](https://web.dio.me/course/imersao-no-spring-framework-com-spring-boot/learning/76dae2f8-07b8-4801-b66a-cdc38209ab87)
+- [ ] Imersão no Spring Framework com Spring boot - [acesse o curso](https://web.dio.me/course/imersao-no-spring-framework-com-spring-boot/learning/76dae2f8-07b8-4801-b66a-cdc38209ab87)
 - [ ] Criando uma API REST documentada com Spring Web - [acesse o curso](https://web.dio.me/course/domine-o-estilo-arquitetural-rest-com-o-spring-web/learning/2b52b79d-f958-4896-b858-e4e58ac76c06)	
 
 
